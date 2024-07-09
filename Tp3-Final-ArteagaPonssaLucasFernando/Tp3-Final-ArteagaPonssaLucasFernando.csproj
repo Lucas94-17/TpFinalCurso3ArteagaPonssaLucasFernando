@@ -76,6 +76,7 @@
     <Content Include="MiPerfil.aspx" />
     <Content Include="PaginaDetalle.aspx" />
     <Content Include="Registro.aspx" />
+    <Content Include="Style\Styles.css" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
