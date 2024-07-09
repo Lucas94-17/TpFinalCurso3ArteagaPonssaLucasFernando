@@ -1,0 +1,12 @@
+D:\asd\Curso-Csharp-MaxiPrograma\Tp-final-web\TpFinalNivel3_Arteaga_Ponssa_Lucas\dominio\bin\Debug\dominio.dll
+D:\asd\Curso-Csharp-MaxiPrograma\Tp-final-web\TpFinalNivel3_Arteaga_Ponssa_Lucas\dominio\bin\Debug\dominio.pdb
+D:\asd\Curso-Csharp-MaxiPrograma\Tp-final-web\TpFinalNivel3_Arteaga_Ponssa_Lucas\dominio\obj\Debug\dominio.csproj.AssemblyReference.cache
+D:\asd\Curso-Csharp-MaxiPrograma\Tp-final-web\TpFinalNivel3_Arteaga_Ponssa_Lucas\dominio\obj\Debug\dominio.csproj.CoreCompileInputs.cache
+D:\asd\Curso-Csharp-MaxiPrograma\Tp-final-web\TpFinalNivel3_Arteaga_Ponssa_Lucas\dominio\obj\Debug\dominio.dll
+D:\asd\Curso-Csharp-MaxiPrograma\Tp-final-web\TpFinalNivel3_Arteaga_Ponssa_Lucas\dominio\obj\Debug\dominio.pdb
+C:\Users\lucas\OneDrive\Escritorio\tp-final-nivel3\Tp3-Final-ArteagaPonssaLucasFernando\dominio\bin\Debug\dominio.dll
+C:\Users\lucas\OneDrive\Escritorio\tp-final-nivel3\Tp3-Final-ArteagaPonssaLucasFernando\dominio\bin\Debug\dominio.pdb
+C:\Users\lucas\OneDrive\Escritorio\tp-final-nivel3\Tp3-Final-ArteagaPonssaLucasFernando\dominio\obj\Debug\dominio.csproj.AssemblyReference.cache
+C:\Users\lucas\OneDrive\Escritorio\tp-final-nivel3\Tp3-Final-ArteagaPonssaLucasFernando\dominio\obj\Debug\dominio.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Escritorio\tp-final-nivel3\Tp3-Final-ArteagaPonssaLucasFernando\dominio\obj\Debug\dominio.dll
+C:\Users\lucas\OneDrive\Escritorio\tp-final-nivel3\Tp3-Final-ArteagaPonssaLucasFernando\dominio\obj\Debug\dominio.pdb

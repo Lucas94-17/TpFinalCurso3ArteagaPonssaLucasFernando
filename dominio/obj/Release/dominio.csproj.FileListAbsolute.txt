@@ -1,0 +1,6 @@
+D:\asd\Curso-Csharp-MaxiPrograma\Tp-final-web\TpFinalNivel3_Arteaga_Ponssa_Lucas\dominio\bin\Release\dominio.dll
+D:\asd\Curso-Csharp-MaxiPrograma\Tp-final-web\TpFinalNivel3_Arteaga_Ponssa_Lucas\dominio\bin\Release\dominio.pdb
+D:\asd\Curso-Csharp-MaxiPrograma\Tp-final-web\TpFinalNivel3_Arteaga_Ponssa_Lucas\dominio\obj\Release\dominio.csproj.AssemblyReference.cache
+D:\asd\Curso-Csharp-MaxiPrograma\Tp-final-web\TpFinalNivel3_Arteaga_Ponssa_Lucas\dominio\obj\Release\dominio.csproj.CoreCompileInputs.cache
+D:\asd\Curso-Csharp-MaxiPrograma\Tp-final-web\TpFinalNivel3_Arteaga_Ponssa_Lucas\dominio\obj\Release\dominio.dll
+D:\asd\Curso-Csharp-MaxiPrograma\Tp-final-web\TpFinalNivel3_Arteaga_Ponssa_Lucas\dominio\obj\Release\dominio.pdb

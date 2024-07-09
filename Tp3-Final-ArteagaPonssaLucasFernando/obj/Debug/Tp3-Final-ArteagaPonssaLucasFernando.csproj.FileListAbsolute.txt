@@ -1,0 +1,2 @@
+C:\Users\lucas\OneDrive\Escritorio\tp-final-nivel3\Tp3-Final-ArteagaPonssaLucasFernando\Tp3-Final-ArteagaPonssaLucasFernando\obj\Debug\Tp3-Final-ArteagaPonssaLucasFernando.csproj.AssemblyReference.cache
+C:\Users\lucas\OneDrive\Escritorio\tp-final-nivel3\Tp3-Final-ArteagaPonssaLucasFernando\Tp3-Final-ArteagaPonssaLucasFernando\obj\Debug\Tp3-Final-ArteagaPonssaLucasFernando.csproj.CoreCompileInputs.cache

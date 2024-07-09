@@ -1,0 +1,9 @@
+D:\asd\Curso-Csharp-MaxiPrograma\Tp-final-web\TpFinalNivel3_Arteaga_Ponssa_Lucas\negocio\bin\Release\negocio.dll
+D:\asd\Curso-Csharp-MaxiPrograma\Tp-final-web\TpFinalNivel3_Arteaga_Ponssa_Lucas\negocio\bin\Release\negocio.pdb
+D:\asd\Curso-Csharp-MaxiPrograma\Tp-final-web\TpFinalNivel3_Arteaga_Ponssa_Lucas\negocio\bin\Release\dominio.dll
+D:\asd\Curso-Csharp-MaxiPrograma\Tp-final-web\TpFinalNivel3_Arteaga_Ponssa_Lucas\negocio\bin\Release\dominio.pdb
+D:\asd\Curso-Csharp-MaxiPrograma\Tp-final-web\TpFinalNivel3_Arteaga_Ponssa_Lucas\negocio\obj\Release\negocio.csproj.AssemblyReference.cache
+D:\asd\Curso-Csharp-MaxiPrograma\Tp-final-web\TpFinalNivel3_Arteaga_Ponssa_Lucas\negocio\obj\Release\negocio.csproj.CoreCompileInputs.cache
+D:\asd\Curso-Csharp-MaxiPrograma\Tp-final-web\TpFinalNivel3_Arteaga_Ponssa_Lucas\negocio\obj\Release\negocio.csproj.Up2Date
+D:\asd\Curso-Csharp-MaxiPrograma\Tp-final-web\TpFinalNivel3_Arteaga_Ponssa_Lucas\negocio\obj\Release\negocio.dll
+D:\asd\Curso-Csharp-MaxiPrograma\Tp-final-web\TpFinalNivel3_Arteaga_Ponssa_Lucas\negocio\obj\Release\negocio.pdb
