@@ -3,19 +3,35 @@
   "WorkspaceRootPath": "C:\\Users\\lucas\\OneDrive\\Escritorio\\tp-final-nivel3\\Tp3-Final-ArteagaPonssaLucasFernando\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{184E6557-950F-427B-A939-CCC9917C9292}|Tp3-Final-ArteagaPonssaLucasFernando\\Tp3-Final-ArteagaPonssaLucasFernando.csproj|C:\\Users\\lucas\\OneDrive\\Escritorio\\tp-final-nivel3\\Tp3-Final-ArteagaPonssaLucasFernando\\tp3-final-arteagaponssalucasfernando\\masterprincipal.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{184E6557-950F-427B-A939-CCC9917C9292}|Tp3-Final-ArteagaPonssaLucasFernando\\Tp3-Final-ArteagaPonssaLucasFernando.csproj|solutionrelative:tp3-final-arteagaponssalucasfernando\\masterprincipal.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{184E6557-950F-427B-A939-CCC9917C9292}|Tp3-Final-ArteagaPonssaLucasFernando\\Tp3-Final-ArteagaPonssaLucasFernando.csproj|c:\\users\\lucas\\onedrive\\escritorio\\tp-final-nivel3\\tp3-final-arteagaponssalucasfernando\\tp3-final-arteagaponssalucasfernando\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{184E6557-950F-427B-A939-CCC9917C9292}|Tp3-Final-ArteagaPonssaLucasFernando\\Tp3-Final-ArteagaPonssaLucasFernando.csproj|solutionrelative:tp3-final-arteagaponssalucasfernando\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{184E6557-950F-427B-A939-CCC9917C9292}|Tp3-Final-ArteagaPonssaLucasFernando\\Tp3-Final-ArteagaPonssaLucasFernando.csproj|c:\\users\\lucas\\onedrive\\escritorio\\tp-final-nivel3\\tp3-final-arteagaponssalucasfernando\\tp3-final-arteagaponssalucasfernando\\registro.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{184E6557-950F-427B-A939-CCC9917C9292}|Tp3-Final-ArteagaPonssaLucasFernando\\Tp3-Final-ArteagaPonssaLucasFernando.csproj|solutionrelative:tp3-final-arteagaponssalucasfernando\\registro.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{184E6557-950F-427B-A939-CCC9917C9292}|Tp3-Final-ArteagaPonssaLucasFernando\\Tp3-Final-ArteagaPonssaLucasFernando.csproj|c:\\users\\lucas\\onedrive\\escritorio\\tp-final-nivel3\\tp3-final-arteagaponssalucasfernando\\tp3-final-arteagaponssalucasfernando\\registro.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{184E6557-950F-427B-A939-CCC9917C9292}|Tp3-Final-ArteagaPonssaLucasFernando\\Tp3-Final-ArteagaPonssaLucasFernando.csproj|solutionrelative:tp3-final-arteagaponssalucasfernando\\registro.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{184E6557-950F-427B-A939-CCC9917C9292}|Tp3-Final-ArteagaPonssaLucasFernando\\Tp3-Final-ArteagaPonssaLucasFernando.csproj|c:\\users\\lucas\\onedrive\\escritorio\\tp-final-nivel3\\tp3-final-arteagaponssalucasfernando\\tp3-final-arteagaponssalucasfernando\\paginadetalle.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{184E6557-950F-427B-A939-CCC9917C9292}|Tp3-Final-ArteagaPonssaLucasFernando\\Tp3-Final-ArteagaPonssaLucasFernando.csproj|solutionrelative:tp3-final-arteagaponssalucasfernando\\paginadetalle.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{184E6557-950F-427B-A939-CCC9917C9292}|Tp3-Final-ArteagaPonssaLucasFernando\\Tp3-Final-ArteagaPonssaLucasFernando.csproj|c:\\users\\lucas\\onedrive\\escritorio\\tp-final-nivel3\\tp3-final-arteagaponssalucasfernando\\tp3-final-arteagaponssalucasfernando\\paginadetalle.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{184E6557-950F-427B-A939-CCC9917C9292}|Tp3-Final-ArteagaPonssaLucasFernando\\Tp3-Final-ArteagaPonssaLucasFernando.csproj|C:\\Users\\lucas\\OneDrive\\Escritorio\\tp-final-nivel3\\Tp3-Final-ArteagaPonssaLucasFernando\\tp3-final-arteagaponssalucasfernando\\paginadetalle.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{184E6557-950F-427B-A939-CCC9917C9292}|Tp3-Final-ArteagaPonssaLucasFernando\\Tp3-Final-ArteagaPonssaLucasFernando.csproj|solutionrelative:tp3-final-arteagaponssalucasfernando\\paginadetalle.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{184E6557-950F-427B-A939-CCC9917C9292}|Tp3-Final-ArteagaPonssaLucasFernando\\Tp3-Final-ArteagaPonssaLucasFernando.csproj|c:\\users\\lucas\\onedrive\\escritorio\\tp-final-nivel3\\tp3-final-arteagaponssalucasfernando\\tp3-final-arteagaponssalucasfernando\\miperfil.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{184E6557-950F-427B-A939-CCC9917C9292}|Tp3-Final-ArteagaPonssaLucasFernando\\Tp3-Final-ArteagaPonssaLucasFernando.csproj|C:\\Users\\lucas\\OneDrive\\Escritorio\\tp-final-nivel3\\Tp3-Final-ArteagaPonssaLucasFernando\\tp3-final-arteagaponssalucasfernando\\miperfil.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{184E6557-950F-427B-A939-CCC9917C9292}|Tp3-Final-ArteagaPonssaLucasFernando\\Tp3-Final-ArteagaPonssaLucasFernando.csproj|solutionrelative:tp3-final-arteagaponssalucasfernando\\miperfil.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{184E6557-950F-427B-A939-CCC9917C9292}|Tp3-Final-ArteagaPonssaLucasFernando\\Tp3-Final-ArteagaPonssaLucasFernando.csproj|c:\\users\\lucas\\onedrive\\escritorio\\tp-final-nivel3\\tp3-final-arteagaponssalucasfernando\\tp3-final-arteagaponssalucasfernando\\miperfil.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{184E6557-950F-427B-A939-CCC9917C9292}|Tp3-Final-ArteagaPonssaLucasFernando\\Tp3-Final-ArteagaPonssaLucasFernando.csproj|C:\\Users\\lucas\\OneDrive\\Escritorio\\tp-final-nivel3\\Tp3-Final-ArteagaPonssaLucasFernando\\tp3-final-arteagaponssalucasfernando\\miperfil.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{184E6557-950F-427B-A939-CCC9917C9292}|Tp3-Final-ArteagaPonssaLucasFernando\\Tp3-Final-ArteagaPonssaLucasFernando.csproj|solutionrelative:tp3-final-arteagaponssalucasfernando\\miperfil.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
@@ -23,40 +39,36 @@
       "RelativeMoniker": "D:0:0:{184E6557-950F-427B-A939-CCC9917C9292}|Tp3-Final-ArteagaPonssaLucasFernando\\Tp3-Final-ArteagaPonssaLucasFernando.csproj|solutionrelative:tp3-final-arteagaponssalucasfernando\\masterprincipal.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{184E6557-950F-427B-A939-CCC9917C9292}|Tp3-Final-ArteagaPonssaLucasFernando\\Tp3-Final-ArteagaPonssaLucasFernando.csproj|c:\\users\\lucas\\onedrive\\escritorio\\tp-final-nivel3\\tp3-final-arteagaponssalucasfernando\\tp3-final-arteagaponssalucasfernando\\formularioarticulos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{184E6557-950F-427B-A939-CCC9917C9292}|Tp3-Final-ArteagaPonssaLucasFernando\\Tp3-Final-ArteagaPonssaLucasFernando.csproj|C:\\Users\\lucas\\OneDrive\\Escritorio\\tp-final-nivel3\\Tp3-Final-ArteagaPonssaLucasFernando\\tp3-final-arteagaponssalucasfernando\\formularioarticulos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{184E6557-950F-427B-A939-CCC9917C9292}|Tp3-Final-ArteagaPonssaLucasFernando\\Tp3-Final-ArteagaPonssaLucasFernando.csproj|solutionrelative:tp3-final-arteagaponssalucasfernando\\formularioarticulos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{184E6557-950F-427B-A939-CCC9917C9292}|Tp3-Final-ArteagaPonssaLucasFernando\\Tp3-Final-ArteagaPonssaLucasFernando.csproj|c:\\users\\lucas\\onedrive\\escritorio\\tp-final-nivel3\\tp3-final-arteagaponssalucasfernando\\tp3-final-arteagaponssalucasfernando\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{184E6557-950F-427B-A939-CCC9917C9292}|Tp3-Final-ArteagaPonssaLucasFernando\\Tp3-Final-ArteagaPonssaLucasFernando.csproj|C:\\Users\\lucas\\OneDrive\\Escritorio\\tp-final-nivel3\\Tp3-Final-ArteagaPonssaLucasFernando\\tp3-final-arteagaponssalucasfernando\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{184E6557-950F-427B-A939-CCC9917C9292}|Tp3-Final-ArteagaPonssaLucasFernando\\Tp3-Final-ArteagaPonssaLucasFernando.csproj|solutionrelative:tp3-final-arteagaponssalucasfernando\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{184E6557-950F-427B-A939-CCC9917C9292}|Tp3-Final-ArteagaPonssaLucasFernando\\Tp3-Final-ArteagaPonssaLucasFernando.csproj|c:\\users\\lucas\\onedrive\\escritorio\\tp-final-nivel3\\tp3-final-arteagaponssalucasfernando\\tp3-final-arteagaponssalucasfernando\\validacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{184E6557-950F-427B-A939-CCC9917C9292}|Tp3-Final-ArteagaPonssaLucasFernando\\Tp3-Final-ArteagaPonssaLucasFernando.csproj|C:\\Users\\lucas\\OneDrive\\Escritorio\\tp-final-nivel3\\Tp3-Final-ArteagaPonssaLucasFernando\\tp3-final-arteagaponssalucasfernando\\validacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{184E6557-950F-427B-A939-CCC9917C9292}|Tp3-Final-ArteagaPonssaLucasFernando\\Tp3-Final-ArteagaPonssaLucasFernando.csproj|solutionrelative:tp3-final-arteagaponssalucasfernando\\validacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{184E6557-950F-427B-A939-CCC9917C9292}|Tp3-Final-ArteagaPonssaLucasFernando\\Tp3-Final-ArteagaPonssaLucasFernando.csproj|c:\\users\\lucas\\onedrive\\escritorio\\tp-final-nivel3\\tp3-final-arteagaponssalucasfernando\\tp3-final-arteagaponssalucasfernando\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{184E6557-950F-427B-A939-CCC9917C9292}|Tp3-Final-ArteagaPonssaLucasFernando\\Tp3-Final-ArteagaPonssaLucasFernando.csproj|C:\\Users\\lucas\\OneDrive\\Escritorio\\tp-final-nivel3\\Tp3-Final-ArteagaPonssaLucasFernando\\tp3-final-arteagaponssalucasfernando\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{184E6557-950F-427B-A939-CCC9917C9292}|Tp3-Final-ArteagaPonssaLucasFernando\\Tp3-Final-ArteagaPonssaLucasFernando.csproj|solutionrelative:tp3-final-arteagaponssalucasfernando\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{184E6557-950F-427B-A939-CCC9917C9292}|Tp3-Final-ArteagaPonssaLucasFernando\\Tp3-Final-ArteagaPonssaLucasFernando.csproj|c:\\users\\lucas\\onedrive\\escritorio\\tp-final-nivel3\\tp3-final-arteagaponssalucasfernando\\tp3-final-arteagaponssalucasfernando\\listararticulo.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{184E6557-950F-427B-A939-CCC9917C9292}|Tp3-Final-ArteagaPonssaLucasFernando\\Tp3-Final-ArteagaPonssaLucasFernando.csproj|C:\\Users\\lucas\\OneDrive\\Escritorio\\tp-final-nivel3\\Tp3-Final-ArteagaPonssaLucasFernando\\tp3-final-arteagaponssalucasfernando\\listararticulo.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{184E6557-950F-427B-A939-CCC9917C9292}|Tp3-Final-ArteagaPonssaLucasFernando\\Tp3-Final-ArteagaPonssaLucasFernando.csproj|solutionrelative:tp3-final-arteagaponssalucasfernando\\listararticulo.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{184E6557-950F-427B-A939-CCC9917C9292}|Tp3-Final-ArteagaPonssaLucasFernando\\Tp3-Final-ArteagaPonssaLucasFernando.csproj|c:\\users\\lucas\\onedrive\\escritorio\\tp-final-nivel3\\tp3-final-arteagaponssalucasfernando\\tp3-final-arteagaponssalucasfernando\\listararticulo.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{184E6557-950F-427B-A939-CCC9917C9292}|Tp3-Final-ArteagaPonssaLucasFernando\\Tp3-Final-ArteagaPonssaLucasFernando.csproj|C:\\Users\\lucas\\OneDrive\\Escritorio\\tp-final-nivel3\\Tp3-Final-ArteagaPonssaLucasFernando\\tp3-final-arteagaponssalucasfernando\\listararticulo.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{184E6557-950F-427B-A939-CCC9917C9292}|Tp3-Final-ArteagaPonssaLucasFernando\\Tp3-Final-ArteagaPonssaLucasFernando.csproj|solutionrelative:tp3-final-arteagaponssalucasfernando\\listararticulo.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{184E6557-950F-427B-A939-CCC9917C9292}|Tp3-Final-ArteagaPonssaLucasFernando\\Tp3-Final-ArteagaPonssaLucasFernando.csproj|c:\\users\\lucas\\onedrive\\escritorio\\tp-final-nivel3\\tp3-final-arteagaponssalucasfernando\\tp3-final-arteagaponssalucasfernando\\formularioarticulos.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{184E6557-950F-427B-A939-CCC9917C9292}|Tp3-Final-ArteagaPonssaLucasFernando\\Tp3-Final-ArteagaPonssaLucasFernando.csproj|C:\\Users\\lucas\\OneDrive\\Escritorio\\tp-final-nivel3\\Tp3-Final-ArteagaPonssaLucasFernando\\tp3-final-arteagaponssalucasfernando\\formularioarticulos.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{184E6557-950F-427B-A939-CCC9917C9292}|Tp3-Final-ArteagaPonssaLucasFernando\\Tp3-Final-ArteagaPonssaLucasFernando.csproj|solutionrelative:tp3-final-arteagaponssalucasfernando\\formularioarticulos.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{184E6557-950F-427B-A939-CCC9917C9292}|Tp3-Final-ArteagaPonssaLucasFernando\\Tp3-Final-ArteagaPonssaLucasFernando.csproj|c:\\users\\lucas\\onedrive\\escritorio\\tp-final-nivel3\\tp3-final-arteagaponssalucasfernando\\tp3-final-arteagaponssalucasfernando\\error.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{184E6557-950F-427B-A939-CCC9917C9292}|Tp3-Final-ArteagaPonssaLucasFernando\\Tp3-Final-ArteagaPonssaLucasFernando.csproj|C:\\Users\\lucas\\OneDrive\\Escritorio\\tp-final-nivel3\\Tp3-Final-ArteagaPonssaLucasFernando\\tp3-final-arteagaponssalucasfernando\\error.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{184E6557-950F-427B-A939-CCC9917C9292}|Tp3-Final-ArteagaPonssaLucasFernando\\Tp3-Final-ArteagaPonssaLucasFernando.csproj|solutionrelative:tp3-final-arteagaponssalucasfernando\\error.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{184E6557-950F-427B-A939-CCC9917C9292}|Tp3-Final-ArteagaPonssaLucasFernando\\Tp3-Final-ArteagaPonssaLucasFernando.csproj|c:\\users\\lucas\\onedrive\\escritorio\\tp-final-nivel3\\tp3-final-arteagaponssalucasfernando\\tp3-final-arteagaponssalucasfernando\\masterprincipal.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
-      "RelativeMoniker": "D:0:0:{184E6557-950F-427B-A939-CCC9917C9292}|Tp3-Final-ArteagaPonssaLucasFernando\\Tp3-Final-ArteagaPonssaLucasFernando.csproj|solutionrelative:tp3-final-arteagaponssalucasfernando\\masterprincipal.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{184E6557-950F-427B-A939-CCC9917C9292}|Tp3-Final-ArteagaPonssaLucasFernando\\Tp3-Final-ArteagaPonssaLucasFernando.csproj|C:\\Users\\lucas\\OneDrive\\Escritorio\\tp-final-nivel3\\Tp3-Final-ArteagaPonssaLucasFernando\\tp3-final-arteagaponssalucasfernando\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
@@ -70,24 +82,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 17,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\OneDrive\\Escritorio\\tp-final-nivel3\\Tp3-Final-ArteagaPonssaLucasFernando\\Tp3-Final-ArteagaPonssaLucasFernando\\Global.asax.cs",
+              "RelativeDocumentMoniker": "Tp3-Final-ArteagaPonssaLucasFernando\\Global.asax.cs",
+              "ToolTip": "C:\\Users\\lucas\\OneDrive\\Escritorio\\tp-final-nivel3\\Tp3-Final-ArteagaPonssaLucasFernando\\Tp3-Final-ArteagaPonssaLucasFernando\\Global.asax.cs",
+              "RelativeToolTip": "Tp3-Final-ArteagaPonssaLucasFernando\\Global.asax.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T02:32:21.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Registro.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\OneDrive\\Escritorio\\tp-final-nivel3\\Tp3-Final-ArteagaPonssaLucasFernando\\Tp3-Final-ArteagaPonssaLucasFernando\\Registro.aspx.cs",
+              "RelativeDocumentMoniker": "Tp3-Final-ArteagaPonssaLucasFernando\\Registro.aspx.cs",
+              "ToolTip": "C:\\Users\\lucas\\OneDrive\\Escritorio\\tp-final-nivel3\\Tp3-Final-ArteagaPonssaLucasFernando\\Tp3-Final-ArteagaPonssaLucasFernando\\Registro.aspx.cs",
+              "RelativeToolTip": "Tp3-Final-ArteagaPonssaLucasFernando\\Registro.aspx.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAD4vzYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T02:29:34.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Registro.aspx",
+              "DocumentMoniker": "C:\\Users\\lucas\\OneDrive\\Escritorio\\tp-final-nivel3\\Tp3-Final-ArteagaPonssaLucasFernando\\Tp3-Final-ArteagaPonssaLucasFernando\\Registro.aspx",
+              "RelativeDocumentMoniker": "Tp3-Final-ArteagaPonssaLucasFernando\\Registro.aspx",
+              "ToolTip": "C:\\Users\\lucas\\OneDrive\\Escritorio\\tp-final-nivel3\\Tp3-Final-ArteagaPonssaLucasFernando\\Tp3-Final-ArteagaPonssaLucasFernando\\Registro.aspx",
+              "RelativeToolTip": "Tp3-Final-ArteagaPonssaLucasFernando\\Registro.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-09T02:29:20.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "PaginaDetalle.aspx.cs",
               "DocumentMoniker": "C:\\Users\\lucas\\OneDrive\\Escritorio\\tp-final-nivel3\\Tp3-Final-ArteagaPonssaLucasFernando\\Tp3-Final-ArteagaPonssaLucasFernando\\PaginaDetalle.aspx.cs",
               "RelativeDocumentMoniker": "Tp3-Final-ArteagaPonssaLucasFernando\\PaginaDetalle.aspx.cs",
               "ToolTip": "C:\\Users\\lucas\\OneDrive\\Escritorio\\tp-final-nivel3\\Tp3-Final-ArteagaPonssaLucasFernando\\Tp3-Final-ArteagaPonssaLucasFernando\\PaginaDetalle.aspx.cs",
               "RelativeToolTip": "Tp3-Final-ArteagaPonssaLucasFernando\\PaginaDetalle.aspx.cs",
-              "ViewState": "AQIAACUAAAAAAAAAAAAIwDAAAAAAAAAA",
+              "ViewState": "AQIAABAAAAAAAAAAAAAIwDAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-09T02:27:44.09Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "PaginaDetalle.aspx",
               "DocumentMoniker": "C:\\Users\\lucas\\OneDrive\\Escritorio\\tp-final-nivel3\\Tp3-Final-ArteagaPonssaLucasFernando\\Tp3-Final-ArteagaPonssaLucasFernando\\PaginaDetalle.aspx",
               "RelativeDocumentMoniker": "Tp3-Final-ArteagaPonssaLucasFernando\\PaginaDetalle.aspx",
@@ -95,12 +146,11 @@
               "RelativeToolTip": "Tp3-Final-ArteagaPonssaLucasFernando\\PaginaDetalle.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-07-09T02:27:28.011Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-09T02:27:28.011Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "MiPerfil.aspx.cs",
               "DocumentMoniker": "C:\\Users\\lucas\\OneDrive\\Escritorio\\tp-final-nivel3\\Tp3-Final-ArteagaPonssaLucasFernando\\Tp3-Final-ArteagaPonssaLucasFernando\\MiPerfil.aspx.cs",
               "RelativeDocumentMoniker": "Tp3-Final-ArteagaPonssaLucasFernando\\MiPerfil.aspx.cs",
@@ -108,12 +158,11 @@
               "RelativeToolTip": "Tp3-Final-ArteagaPonssaLucasFernando\\MiPerfil.aspx.cs",
               "ViewState": "AQIAAC8AAAAAAAAAAAD4v1MAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-09T02:26:42.609Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-09T02:26:42.609Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "MiPerfil.aspx",
               "DocumentMoniker": "C:\\Users\\lucas\\OneDrive\\Escritorio\\tp-final-nivel3\\Tp3-Final-ArteagaPonssaLucasFernando\\Tp3-Final-ArteagaPonssaLucasFernando\\MiPerfil.aspx",
               "RelativeDocumentMoniker": "Tp3-Final-ArteagaPonssaLucasFernando\\MiPerfil.aspx",
@@ -121,12 +170,11 @@
               "RelativeToolTip": "Tp3-Final-ArteagaPonssaLucasFernando\\MiPerfil.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-07-09T02:26:05.568Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-09T02:26:05.568Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "Validacion.cs",
               "DocumentMoniker": "C:\\Users\\lucas\\OneDrive\\Escritorio\\tp-final-nivel3\\Tp3-Final-ArteagaPonssaLucasFernando\\Tp3-Final-ArteagaPonssaLucasFernando\\Validacion.cs",
               "RelativeDocumentMoniker": "Tp3-Final-ArteagaPonssaLucasFernando\\Validacion.cs",
@@ -134,12 +182,11 @@
               "RelativeToolTip": "Tp3-Final-ArteagaPonssaLucasFernando\\Validacion.cs",
               "ViewState": "AQIAACcAAAAAAAAAAAAowDoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-09T02:24:53.175Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-09T02:24:53.175Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "Login.aspx.cs",
               "DocumentMoniker": "C:\\Users\\lucas\\OneDrive\\Escritorio\\tp-final-nivel3\\Tp3-Final-ArteagaPonssaLucasFernando\\Tp3-Final-ArteagaPonssaLucasFernando\\Login.aspx.cs",
               "RelativeDocumentMoniker": "Tp3-Final-ArteagaPonssaLucasFernando\\Login.aspx.cs",
@@ -147,12 +194,11 @@
               "RelativeToolTip": "Tp3-Final-ArteagaPonssaLucasFernando\\Login.aspx.cs",
               "ViewState": "AQIAACkAAAAAAAAAAAD4vzUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-09T02:24:22.7Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-09T02:24:22.7Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "Login.aspx",
               "DocumentMoniker": "C:\\Users\\lucas\\OneDrive\\Escritorio\\tp-final-nivel3\\Tp3-Final-ArteagaPonssaLucasFernando\\Tp3-Final-ArteagaPonssaLucasFernando\\Login.aspx",
               "RelativeDocumentMoniker": "Tp3-Final-ArteagaPonssaLucasFernando\\Login.aspx",
@@ -160,12 +206,11 @@
               "RelativeToolTip": "Tp3-Final-ArteagaPonssaLucasFernando\\Login.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-07-09T02:24:07.239Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-09T02:24:07.239Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "ListarArticulo.aspx.cs",
               "DocumentMoniker": "C:\\Users\\lucas\\OneDrive\\Escritorio\\tp-final-nivel3\\Tp3-Final-ArteagaPonssaLucasFernando\\Tp3-Final-ArteagaPonssaLucasFernando\\ListarArticulo.aspx.cs",
               "RelativeDocumentMoniker": "Tp3-Final-ArteagaPonssaLucasFernando\\ListarArticulo.aspx.cs",
@@ -173,12 +218,11 @@
               "RelativeToolTip": "Tp3-Final-ArteagaPonssaLucasFernando\\ListarArticulo.aspx.cs",
               "ViewState": "AQIAAGUAAAAAAAAAAAAgwHAAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-09T02:23:04.817Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-09T02:23:04.817Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "ListarArticulo.aspx",
               "DocumentMoniker": "C:\\Users\\lucas\\OneDrive\\Escritorio\\tp-final-nivel3\\Tp3-Final-ArteagaPonssaLucasFernando\\Tp3-Final-ArteagaPonssaLucasFernando\\ListarArticulo.aspx",
               "RelativeDocumentMoniker": "Tp3-Final-ArteagaPonssaLucasFernando\\ListarArticulo.aspx",
@@ -186,12 +230,11 @@
               "RelativeToolTip": "Tp3-Final-ArteagaPonssaLucasFernando\\ListarArticulo.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-07-09T02:22:43.635Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-09T02:22:43.635Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "formularioArticulos.aspx.cs",
               "DocumentMoniker": "C:\\Users\\lucas\\OneDrive\\Escritorio\\tp-final-nivel3\\Tp3-Final-ArteagaPonssaLucasFernando\\Tp3-Final-ArteagaPonssaLucasFernando\\formularioArticulos.aspx.cs",
               "RelativeDocumentMoniker": "Tp3-Final-ArteagaPonssaLucasFernando\\formularioArticulos.aspx.cs",
@@ -199,12 +242,11 @@
               "RelativeToolTip": "Tp3-Final-ArteagaPonssaLucasFernando\\formularioArticulos.aspx.cs",
               "ViewState": "AQIAAH0AAAAAAAAAAAAowIoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-09T02:20:37.03Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-09T02:20:37.03Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "formularioArticulos.aspx",
               "DocumentMoniker": "C:\\Users\\lucas\\OneDrive\\Escritorio\\tp-final-nivel3\\Tp3-Final-ArteagaPonssaLucasFernando\\Tp3-Final-ArteagaPonssaLucasFernando\\formularioArticulos.aspx",
               "RelativeDocumentMoniker": "Tp3-Final-ArteagaPonssaLucasFernando\\formularioArticulos.aspx",
@@ -212,12 +254,11 @@
               "RelativeToolTip": "Tp3-Final-ArteagaPonssaLucasFernando\\formularioArticulos.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-07-09T02:20:19.761Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-09T02:20:19.761Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 16,
               "Title": "Error.aspx",
               "DocumentMoniker": "C:\\Users\\lucas\\OneDrive\\Escritorio\\tp-final-nivel3\\Tp3-Final-ArteagaPonssaLucasFernando\\Tp3-Final-ArteagaPonssaLucasFernando\\Error.aspx",
               "RelativeDocumentMoniker": "Tp3-Final-ArteagaPonssaLucasFernando\\Error.aspx",
@@ -225,12 +266,11 @@
               "RelativeToolTip": "Tp3-Final-ArteagaPonssaLucasFernando\\Error.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-07-09T01:46:00.528Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-09T01:46:00.528Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "Default.aspx",
               "DocumentMoniker": "C:\\Users\\lucas\\OneDrive\\Escritorio\\tp-final-nivel3\\Tp3-Final-ArteagaPonssaLucasFernando\\Tp3-Final-ArteagaPonssaLucasFernando\\Default.aspx",
               "RelativeDocumentMoniker": "Tp3-Final-ArteagaPonssaLucasFernando\\Default.aspx",
@@ -242,7 +282,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "MasterPrincipal.Master.cs",
               "DocumentMoniker": "C:\\Users\\lucas\\OneDrive\\Escritorio\\tp-final-nivel3\\Tp3-Final-ArteagaPonssaLucasFernando\\Tp3-Final-ArteagaPonssaLucasFernando\\MasterPrincipal.Master.cs",
               "RelativeDocumentMoniker": "Tp3-Final-ArteagaPonssaLucasFernando\\MasterPrincipal.Master.cs",
@@ -250,12 +290,11 @@
               "RelativeToolTip": "Tp3-Final-ArteagaPonssaLucasFernando\\MasterPrincipal.Master.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-09T01:42:13.579Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-09T01:42:13.579Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 0,
               "Title": "MasterPrincipal.Master",
               "DocumentMoniker": "C:\\Users\\lucas\\OneDrive\\Escritorio\\tp-final-nivel3\\Tp3-Final-ArteagaPonssaLucasFernando\\Tp3-Final-ArteagaPonssaLucasFernando\\MasterPrincipal.Master",
               "RelativeDocumentMoniker": "Tp3-Final-ArteagaPonssaLucasFernando\\MasterPrincipal.Master",

@@ -75,6 +75,7 @@
     <Content Include="Login.aspx" />
     <Content Include="MiPerfil.aspx" />
     <Content Include="PaginaDetalle.aspx" />
+    <Content Include="Registro.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -138,6 +139,13 @@
       <DependentUpon>PaginaDetalle.aspx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Registro.aspx.cs">
+      <DependentUpon>Registro.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Registro.aspx.designer.cs">
+      <DependentUpon>Registro.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Validacion.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -152,6 +160,7 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
+    <Folder Include="Img\" />
     <Folder Include="Models\" />
   </ItemGroup>
   <ItemGroup>
