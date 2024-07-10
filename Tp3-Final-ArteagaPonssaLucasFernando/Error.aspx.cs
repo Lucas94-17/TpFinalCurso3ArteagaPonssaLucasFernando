@@ -11,7 +11,7 @@ namespace Tp3_Final_ArteagaPonssaLucasFernando
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-
+            lblError.Text = Session["Error"].ToString();
         }
     }
 }

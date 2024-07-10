@@ -3,12 +3,13 @@
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
+    <asp:ScriptManager runat="server" ID="ScriptManager1"></asp:ScriptManager>
     <div class="form-control" data-bs-theme="dark">
         <h2>Ingreso</h2>
         <hr />
         <div class="mb-3">
             <label for="exampleInputEmail1" class="form-label">Correo Electrónico</label>
-            <asp:TextBox runat="server" ID="txtEmail" CssClass="form-control"></asp:TextBox>
+            <asp:TextBox runat="server" ID="txtEmail" CssClass="form-control" ></asp:TextBox>
             <asp:RequiredFieldValidator ID="RequiredFieldValidator2" runat="server"
                 ControlToValidate="txtEmail"
                 ErrorMessage="Ingrese un Email !"
@@ -24,8 +25,12 @@
                 ForeColor="Red">
             </asp:RequiredFieldValidator>
         </div>
-        <asp:Button runat="server" Text="Ingresar" ID="btnLoguearse" OnClick="btnLoguearse_Click" CssClass="btn btn-success" />
-        <hr />
+        <%--<asp:UpdatePanel runat="server">
+            <ContentTemplate>
+            </ContentTemplate>
+            </asp:UpdatePanel>--%>
+            <asp:Button runat="server" Text="Ingresar" ID="btnLoguearse" OnClick="btnLoguearse_Click" CssClass="btn btn-success" />
+            <hr />
         <p>Si aún no posees una cuenta , ingresa aquí : </p>
         <a href="Registro.aspx" class="btn btn-primary">Registrarse</a>
     </div>

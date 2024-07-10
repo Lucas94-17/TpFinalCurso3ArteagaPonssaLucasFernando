@@ -25,7 +25,7 @@ namespace Tp3_Final_ArteagaPonssaLucasFernando
                 if (Validacion.validaTextoVacio(txtEmail.Text) || Validacion.validaTextoVacio(txtPass.Text))
                 {
                     Session.Add("error", "Debe completar ambos campos");
-                    Response.Redirect("Error.aspx", false);
+                    //Response.Redirect("Error.aspx", false);
                 }
                 trainee.Email = txtEmail.Text;
                 trainee.Pass = txtPass.Text;
@@ -37,17 +37,26 @@ namespace Tp3_Final_ArteagaPonssaLucasFernando
                 }
                 else
                 {
-                    Session.Add("error", "Debe completar ambos campos");
+                    Session.Add("error", "User o password incorrectos");
                     Response.Redirect("Error.aspx", false);
                 }
             }
-            catch (Exception)
+            //    catch (System.Threading.ThreadAbortException ex) { }
+            catch (Exception ex)
             {
-
-                throw;
+                Session.Add("error", ex.ToString());
+                //Response.Redirect("Error.aspx", false);
             }
+            //}
+
+            //private void Page_Error(object sender, EventArgs e)
+            //{
+            //    Exception exc = Server.GetLastError();
+
+
+            //    Session.Add("error", exc.ToString());
+            //    //Response.Redirect("Error.aspx");
+            //    Server.Transfer("Error.aspx");
         }
-
-
     }
 }

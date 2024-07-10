@@ -27,15 +27,6 @@ namespace Tp3_Final_ArteagaPonssaLucasFernando
                 user.Apellido = txtApellido.Text;
                 user.Email = txtEmail.Text;
                 user.Pass = txtPass.Text;
-                //user.urlImagenPerfil = txtUrlImagen.Text;
-                //if (txtImagen.PostedFile.FileName != "")
-                //{
-                //    string ruta = Server.MapPath("./Img/");
-                //    txtImagen.PostedFile.SaveAs(ruta + "perfil-" + user.Nombre + ".jpg");
-                //    user.urlImagenPerfil = "perfil-" + user.Nombre + ".jpg";
-                //}
-                //Image imgAvatar = (Image)Master.FindControl("imgAvatar");
-                //imgAvatar.ImageUrl = "~/Img/" + user.urlImagenPerfil;
                 user.urlImagenPerfil = "imagenes-de-usuario" + ".png";
                 user.Id = traineeNegocio.insertarNuevo(user);
                 Session.Add("trainee", user);

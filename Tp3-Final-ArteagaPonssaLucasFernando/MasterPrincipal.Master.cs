@@ -16,7 +16,7 @@ namespace Tp3_Final_ArteagaPonssaLucasFernando
         {
             imgAvatar.ImageUrl = "../Img/imagenes-de-usuario.png";
 
-            if (!(Page is Login || Page is Registro))
+            if (!(Page is Login || Page is Registro || Page is Error))
             {
                 if (!(Seguridad.sesionActiva(Session["trainee"])))
                 {
