@@ -66,7 +66,18 @@ namespace Tp3_Final_ArteagaPonssaLucasFernando
 
         protected void btnLimpiarFiltro_Click(object sender, EventArgs e)
         {
-
+            if (filtroAvanzado)
+            {
+                ddlCriterio.SelectedItem.ToString();
+                ddlcampo.SelectedItem.ToString();
+                txtFiltroAvanzado.Text = "";
+            }
+            else
+            {
+                dgvArticulos.DataSource = Session["listaArticulos"];
+                dgvArticulos.DataBind();
+                txtFiltrar.Text = "";
+            }
         }
 
         protected void chkAvanzado_CheckedChanged(object sender, EventArgs e)
